@@ -1,0 +1,134 @@
+[
+ {
+    "title": "SQ Doctors Lab",
+    "optional": "Architectural Photography",
+    "extra": "Architectural Photography",
+    "img": "https://i.ibb.co/m6y3CPF/doctor.jpg",
+    "live_link": "https://sq-doctors-lab.web.app/",
+    "description": "This is a treatment website where doctors provide their various services, any patient can book a doctor for his treatment from here. Here anyone can open a seller account and sell their old products, When composing a photo, a photographer should make sure that they capture the architectural structure in a way that is both aesthetically pleasing and tells the story of the building or design. Architectural photography is the sub genre of the photography discipline where the primary emphasis is made to capturing photographs of buildings and similar architectural structures that are both aesthetically pleasing and accurate in terms of representations of their subjects.",
+    "item_details": {
+      "id": "1",
+      "S_date": "12-01-21",
+      "E_date": "03-02-21",
+      "technology": [
+        " HTML",
+        " CSS",
+        " React",
+        " Tailwind",
+        " React Router",
+        " ExpressJs",
+        " Firebase",
+        " Node",
+        " MongoDB",
+        " JWT",
+        " Spinner",
+        " ext."
+      ],
+      "url1": "https://i.ibb.co/gmrnyfh/doctor-Review.jpg",
+      "url2": "https://i.ibb.co/1938vCQ/doctor-User.jpg",
+      "url3": "https://i.ibb.co/9pm4BZg/doctor-Login.jpg",
+      "url4": "https://i.ibb.co/tJkP47S/doctor-Dashboard.jpg"
+    },
+    "detail_list": [
+      {
+        "option": "This is a treatment website where doctors provide their various services, any patient can book a doctor for his treatment from here."
+      },
+      {
+        "option": "Through this website a person can take his treatment at home."
+      },
+      {
+        "option": "No one other than the user will have access to the dashboard."
+      },
+      {
+        "option": "Only admin can add doctor and Admin can delete any user"
+      }
+    ]
+  },
+
+ {
+    "title": "BechaKena.com",
+    "optional": "Architectural Photography",
+    "extra": "Architectural Photography",
+    "img": "https://i.ibb.co/0hpf5VX/bache-Home.jpg",
+    "live_link": "https://final-project-14e8f.web.app/",
+    "description": "It is a single-page website and some services are provided. Here anyone can open a seller account and sell their old products, When composing a photo, a photographer should make sure that they capture the architectural structure in a way that is both aesthetically pleasing and tells the story of the building or design. Architectural photography is the sub genre of the photography discipline where the primary emphasis is made to capturing photographs of buildings and similar architectural structures that are both aesthetically pleasing and accurate in terms of representations of their subjects.",
+    "item_details": {
+      "id": "1",
+      "S_date": "12-01-22",
+      "E_date": "23-02-22",
+      "technology": [
+        " React",
+        " Tailwind",
+        " React Router",
+        " ExpressJs",
+        " Firebase",
+        " Node",
+        " MongoDB",
+        " JWT",
+        " Spinner",
+        " ext."
+      ],
+      "url1": "https://i.ibb.co/dgfLr3h/catagory.jpg",
+      "url2": "https://i.ibb.co/f2P8s1b/phoduct.jpg",
+      "url3": "https://i.ibb.co/CVtvjkL/user.jpg",
+      "url4": "https://i.ibb.co/XCjXpk1/login.jpg"
+    },
+    "detail_list": [
+      {
+        "option": "It is a single-page website and some services are provided."
+      },
+      {
+        "option": "Here anyone can open a seller account and sell their old products,"
+      },
+      {
+        "option": "Here a dashboard is created, where different types of items will be displayed on the dashboard for different users"
+      },
+      {
+        "option": "Only old products can be sold and bought here"
+      }
+    ]
+  },
+ {
+    "title": "Qi Photos",
+    "optional": "Architectural Photography",
+    "extra": "Architectural Photography",
+    "img": "https://i.ibb.co/0nMJ6vm/photo.jpg",
+    "live_link": "https://assignment-11-d3e89.web.app/",
+    "description": "One of the most important aspects of architectural photography is composition. When composing a photo, a photographer should make sure that they capture the architectural structure in a way that is both aesthetically pleasing and tells the story of the building or design. Architectural photography is the sub genre of the photography discipline where the primary emphasis is made to capturing photographs of buildings and similar architectural structures that are both aesthetically pleasing and accurate in terms of representations of their subjects.",
+    "item_details": {
+      "id": "1",
+      "S_date": "12-09-22",
+      "E_date": "23-10-22",
+      "technology": [
+        " React",
+        " Tailwind",
+        " React Router",
+        " ExpressJs",
+        " Firebase",
+        " Node",
+        " MongoDB",
+        " JWT",
+        " Spinner",
+        " ext."
+      ],
+      "url1": "https://i.ibb.co/xLJxqMS/home.jpg",
+      "url2": "https://i.ibb.co/T42ptLG/detail.jpg",
+      "url3": "https://i.ibb.co/SwnVD23/photo-Login.jpg",
+      "url4": "https://i.ibb.co/BKMwjF9/revi.jpg"
+    },
+    "detail_list": [
+      {
+        "option": "On this website, a user can express his opinion through reviews. This website is intended for a photographer."
+      },
+      {
+        "option": "There are three login systems used here user can use any one if he wants"
+      },
+      {
+        "option": "You can hire a skilled photographer for your wedding ceremony through this site"
+      },
+      {
+        "option": "I have created this site with the benefit of photographers in mind."
+      }
+    ]
+  }
+]

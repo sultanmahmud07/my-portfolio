@@ -1,0 +1,48 @@
+.main-bg{
+  background:linear-gradient(rgba(0, 0, 0, 0.742), rgba(0, 0, 0, 0.742)), url('../../../assist/image/banner.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* width: 100vw; */
+  height: 100vh;
+}
+
+.name{
+  color: #f72585;
+}
+.button{
+  
+  
+  text-align: center;
+}
+.button a{
+  padding: 8px 34px;
+  /* font-weight: 400; */
+  border: 3px solid #f72585;
+  transition: 0.5s;
+  font-size: 25px;
+  text-transform: uppercase;
+  text-align: center;
+}
+.button a:hover{
+ 
+  background-color: #f72585;
+ 
+}
+.button2 a{
+  padding: 8px 34px;
+  /* font-weight: 400; */
+  border: 3px solid #f72585;
+  background-color: #f72585;
+  transition: 0.5s;
+  font-size: 25px;
+  text-transform: uppercase;
+  text-align: center;
+}
+.button2 a:hover{
+  border: 3px solid #f72585;
+  background-color: #f7258400;
+}
+
+.write-text{
+  color: #f72585;
+}
